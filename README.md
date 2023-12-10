@@ -1,2 +1,2 @@
 # AlgoTrading
-An algorithmic trading agent optimized using Reinforcement Learning
+Exploring various ideas in algorithmic trading. 
